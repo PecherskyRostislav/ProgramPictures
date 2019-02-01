@@ -1,0 +1,13 @@
+E:\Project\Program_pictures\Program_pictures\bin\Debug\Program_pictures.exe.config
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.change.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.main.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.picture.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.Properties.Resources.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.csproj.GenerateResource.Cache
+E:\Project\Program_pictures\Program_pictures\bin\Debug\Program_pictures.exe
+E:\Project\Program_pictures\Program_pictures\bin\Debug\Program_pictures.pdb
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.exe
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.pdb
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.Harshness.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.color_balance.resources
+E:\Project\Program_pictures\Program_pictures\obj\Debug\Program_pictures.csprojResolveAssemblyReference.cache
